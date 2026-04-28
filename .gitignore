@@ -30,3 +30,4 @@ Thumbs.db
 config.json
 terraform.tfstate
 terraform.tfstate.backup
+/data
