@@ -13,7 +13,7 @@ env/
 data/*.csv
 
 # DVC cache
-.dvc/
+.dvc/cache
 .dvcignore
 
 # MLflow
@@ -27,7 +27,4 @@ mlruns/
 .DS_Store
 Thumbs.db
 
-config.json
-terraform.tfstate
-terraform.tfstate.backup
-/data
+
