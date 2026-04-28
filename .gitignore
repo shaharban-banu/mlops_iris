@@ -10,7 +10,7 @@ env/
 *.pkl
 
 # Data files (optional)
-data/*.csv
+#data/*.csv
 
 # DVC cache
 .dvc/cache
